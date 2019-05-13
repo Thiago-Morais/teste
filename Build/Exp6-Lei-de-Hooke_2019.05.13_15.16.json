@@ -1,0 +1,13 @@
+{
+"companyName": "Algetec Tecnologia",
+"productName": "EXP 5 - Molas - Lei de Hooke",
+"dataUrl": "Exp6-Lei-de-Hooke_2019.05.13_15.16.data.unityweb",
+"wasmCodeUrl": "Exp6-Lei-de-Hooke_2019.05.13_15.16.wasm.code.unityweb",
+"wasmFrameworkUrl": "Exp6-Lei-de-Hooke_2019.05.13_15.16.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
